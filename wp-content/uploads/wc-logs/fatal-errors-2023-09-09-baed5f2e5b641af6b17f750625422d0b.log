@@ -1,0 +1,38 @@
+2023-09-09T09:26:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\google-listings-and-ads\src\Google\GoogleHelperAwareInterface.php on line 6
+
+2023-09-09T09:26:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\google-listings-and-ads\src\Product\Attributes\MPN.php on line 9
+
+2023-09-09T09:26:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\google-listings-and-ads\src\Product\Attributes\MPN.php on line 9
+
+2023-09-09T09:26:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\google-listings-and-ads\src\Product\Attributes\MPN.php on line 9
+
+2023-09-09T09:26:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\google-listings-and-ads\src\Product\Attributes\MPN.php on line 9
+
+2023-09-09T09:26:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\google-listings-and-ads\src\Product\Attributes\MPN.php on line 9
+
+2023-09-09T09:28:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 97
+
+2023-09-09T09:28:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 73
+
+ttonBlock.php on line 15
+
+2023-09-09T09:28:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockPatterns.php on line 76
+
+2023-09-09T09:28:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\src\Admin\API\Features.php on line 10
+
+2023-09-09T09:28:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\src\Admin\API\Features.php on line 10
+
+2023-09-09T09:28:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\src\Admin\API\Features.php on line 10
+
+2023-09-09T09:28:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-waf\src\class-compatibility.php on line 96
+
+2023-09-09T09:28:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\src\Admin\API\Features.php on line 10
+
+2023-09-09T09:28:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\src\Admin\API\Features.php on line 10
+
+2023-09-09T09:28:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\woocommerce\src\Internal\Admin\Orders\COTRedirectionController.php on line 18
+
+2023-09-09T09:28:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-content\plugins\google-listings-and-ads\src\Proxies\RESTServer.php on line 102
+
+2023-09-09T09:29:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\ShinZ\pmmnm\xamPP\htdocs\banshang\wp-includes\plugin.php on line 173
+
